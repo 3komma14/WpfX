@@ -1,0 +1,170 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="32" fromTop="0" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/f:MainWindow.xaml" caret="450" fromTop="6" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/f:MainWindow.xaml.cs" caret="688" fromTop="28" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:ViewModel/f:MainViewModel.cs" caret="538" fromTop="19" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:AuthorizationType.cs" caret="0" fromTop="0" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:AuthorizeAttribute.cs" caret="0" fromTop="0" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:SecureRelayCommand.cs" caret="1778" fromTop="53" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:SecureRelayCommand.cs" caret="2366" fromTop="9" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:SecureRelayCommand.cs" caret="2366" fromTop="15" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="700" fromTop="18" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:SecureRelayCommand.cs" caret="2366" fromTop="30" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="785" fromTop="16" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="1454" fromTop="26" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="2398" fromTop="27" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="2174" fromTop="23" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="1396" fromTop="19" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="1919" fromTop="24" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="2931" fromTop="37" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="2635" fromTop="20" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="250" fromTop="13" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="3021" fromTop="10" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:SecureRelayCommand.cs" caret="2366" fromTop="18" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="3205" fromTop="18" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="3383" fromTop="24" />
+      <File id="338746C8-B7EC-4220-A5CF-9DADF3021AE8/f:AuthorizationTests.cs" caret="32" fromTop="0" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/f:MainWindow.xaml" caret="312" fromTop="4" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/f:MainWindow.xaml.cs" caret="688" fromTop="30" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/f:MainWindow.xaml.cs" caret="653" fromTop="25" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/f:MainWindow.xaml.cs" caret="365" fromTop="12" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/f:MainWindow.xaml.cs" caret="674" fromTop="26" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/f:MainWindow.xaml.cs" caret="548" fromTop="21" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:ViewModel/f:MainViewModel.cs" caret="466" fromTop="17" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:ViewModel/f:MainViewModel.cs" caret="616" fromTop="19" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:SecureRelayCommand.cs" caret="2091" fromTop="37" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:SecureRelayCommand.cs" caret="2334" fromTop="45" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:SecureRelayCommand.cs" caret="1897" fromTop="34" />
+      <File id="1A97D9DE-263B-4616-884F-D9451279797E/d:Security/f:SecureRelayCommand.cs" caret="1778" fromTop="29" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ctor" priority="2" />
+      <Item value="Action`0" priority="0" />
+      <Item value="object" priority="2" />
+      <Item value="action" priority="3" />
+      <Item value="_action" priority="0" />
+      <Item value="parameter" priority="2" />
+      <Item value="bool" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="AttributeUsage" priority="0" />
+      <Item value="AttributeTargets`0" priority="0" />
+      <Item value="AllowMultiple" priority="0" />
+      <Item value="authorizationType" priority="0" />
+      <Item value="string" priority="3" />
+      <Item value="true" priority="2" />
+      <Item value="if" priority="7" />
+      <Item value="attribs" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="return" priority="4" />
+      <Item value="foreach" priority="0" />
+      <Item value="attrib" priority="5" />
+      <Item value="AuthorizeAttribute`0" priority="0" />
+      <Item value="AuthorizationType`0" priority="1" />
+      <Item value="IAsyncResult`0" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="Allow" priority="0" />
+      <Item value="result" priority="3" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="break" priority="0" />
+      <Item value="_authorized" priority="0" />
+      <Item value="_canExecute" priority="1" />
+      <Item value="CanExecute`0" priority="0" />
+      <Item value="test" priority="1" />
+      <Item value="new" priority="6" />
+      <Item value="canExecute" priority="0" />
+      <Item value="Authorize" priority="1" />
+      <Item value="AuthorizationType" priority="0" />
+      <Item value="AllowRoleMethod`0" priority="0" />
+      <Item value="command" priority="0" />
+      <Item value="Assert`0" priority="1" />
+      <Item value="GenericIdentity`0" priority="0" />
+      <Item value="SecurityException" priority="0" />
+      <Item value="obj" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="LastMethodExeuted" priority="0" />
+      <Item value="ICommand`0" priority="0" />
+      <Item value="SecureCommand" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="DataContext" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="LocalDataStoreSlot`0" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="MainWindow`0" priority="0" />
+      <Item value="CommandManager`0" priority="0" />
+      <Item value="remove" priority="0" />
+      <Item value="_isAuthorized" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action`1">
+      <Item value="Method" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodInfo">
+      <Item value="GetCustomAttributes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AttributeTargets">
+      <Item value="Method" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WpfX.Common.AuthorizeAttribute">
+      <Item value="AuthorizationType" priority="1" />
+      <Item value="Role" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentPrincipal" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IPrincipal">
+      <Item value="IsInRole`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@WpfX.Common.AuthorizationType">
+      <Item value="Deny" priority="0" />
+      <Item value="Allow" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WpfX.Common.SecureRelayCommand">
+      <Item value="CanExecute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="1" />
+      <Item value="IsTrue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.MethodInfo">
+      <Item value="GetCurrentMethod`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodBase">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Input.CommandManager">
+      <Item value="RequerySuggested" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
